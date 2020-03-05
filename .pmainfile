@@ -1,0 +1,7 @@
+{"mainfile":"Program.cs",
+"compilemenucommand":"dotnet build",
+"runmenucommand":"dotnet run",
+"viewtype":"browser",
+"previewWebApp":true,
+"outputtype":"web"
+}
